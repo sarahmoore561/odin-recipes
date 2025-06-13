@@ -7,5 +7,14 @@ h1 {
     background-color: blueviolet;
     text-align: center;
     color: azure;
+    padding: 8px;
 }
 
+li {
+    margin: 5px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
